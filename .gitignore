@@ -1,0 +1,5 @@
+target/
+.idea/
+__archive/
+*.out
+*.log
